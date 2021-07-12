@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakob</h1>
 <h3 align="center">I am passioned developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=red44&label=Profile%20views&color=0e75b6&style=flat" alt="red44" /> </p>
-
 - 🔭 I’m currently working on **my own portfolio**
 
 - 🌱 I’m currently learning **React and Assembly**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=red44&show_icons=true&locale=en&layout=compact" alt="red44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=red44&show_icons=true&locale=en" alt="red44" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=red44&" alt="red44" /></p>
