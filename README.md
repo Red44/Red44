@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Assembly**
 
-- 💬 Ask me about **Clean coding and programming structure**
+- 💬 Ask me about **clean coding and programming structure**
 
 - 📫 How to reach me **ReD#0015**
 
