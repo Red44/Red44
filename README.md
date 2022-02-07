@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Any programming questions you have**
 
-- 👨‍💻 All of my projects are available on [My GitHub repo](My GitHub repo)
+- 👨‍💻 All of my projects are available on [My GitHub repo](https://github.com/Red44?tab=repositories)
 
 - 💬 Ask me about **anything coding related**
 
