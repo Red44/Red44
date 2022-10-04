@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you, my name is Jakob</h1>
-<h3 align="center">A passionated backend developer linking mathematic and the core of the machine itself</h3>
+<h3 align="center">a passionated backend developer enjoying mathematics and the core of the machine itself</h3>
 
 - 🔭 I’m currently working on **CodeSharing Platform (Private)**
 
